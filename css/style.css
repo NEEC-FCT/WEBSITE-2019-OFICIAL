@@ -345,7 +345,7 @@ ul {
 
 /* line 31, E:/161 Real estate/161_Real_state_html/sass/_menu.scss */
 .main_menu .navbar .main-menu-item .navbar-nav a:hover {
-  color: #cfb579;
+  color: #89C132;
 }
 
 @media (max-width: 576px) {
@@ -353,7 +353,7 @@ ul {
   .main_menu .navbar .main-menu-item .navbar-nav a {
     padding: 10px 22px;
     color: #fff;
-    background-color: #bd9c50;
+    background-color: #89C132;
     margin-bottom: 2px;
   }
 }
@@ -2864,7 +2864,7 @@ ul {
   top: 20px;
   width: 60px;
   height: 39px;
-  background-color: #cfb579;
+  background-color: #89C132;
   text-align: center;
   color: #fff;
   border-radius: 50px;
@@ -5709,9 +5709,9 @@ h6 {
   padding: 7px 12px;
   font-size: 14px;
   font-weight: 500;
-  background-color: #cfb579;
+  background-color: #89C132;
   color: #fff;
-  border: 2px solid #cfb579;
+  border: 2px solid #89C132;
   display: inline-block;
   text-transform: capitalize;
   -webkit-transition: 0.5s;
@@ -5720,8 +5720,8 @@ h6 {
 
 /* line 34, E:/161 Real estate/161_Real_state_html/sass/_button.scss */
 .btn_1:hover {
-  background-color: #d8b25a;
-  border: 2px solid #d8b25a;
+  background-color: #89C132;
+  border: 2px solid #89C132;
   color: #fff;
 }
 
@@ -5792,9 +5792,9 @@ h6 {
   padding: 12px 54px;
   border-radius: 4px;
   color: #fff;
-  border: 1px solid #e8ebef;
+  border: 1px solid #3a5577;
   text-transform: uppercase;
-  background-color: #cfb579;
+  background-color: #89C132;
   cursor: pointer;
   -webkit-transition: 0.5s;
   transition: 0.5s;
