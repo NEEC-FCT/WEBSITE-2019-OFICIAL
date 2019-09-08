@@ -4270,6 +4270,13 @@ h6 {
 }
 
 
+.hr_bg {
+  background-image: url("../img/hrm.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .it_bg {
   background-image: url("../img/itbanner.jpg");
   background-position: center;
