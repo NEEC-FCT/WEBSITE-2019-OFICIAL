@@ -4262,6 +4262,13 @@ h6 {
   background-size: cover;
 }
 
+.robotica_bg {
+  background-image: url("../img/robot-bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 
 .it_bg {
   background-image: url("../img/itbanner.jpg");
